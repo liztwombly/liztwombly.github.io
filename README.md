@@ -27,3 +27,8 @@ I am Liz Twombly, a student at Lehigh University. I am interested in receiving a
 # Job Positions at Lehigh University
 
 <iframe id="datawrapper-chart-rTAAL" src="//datawrapper.dwcdn.net/rTAAL/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="191"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["rTAAL"]={},window.datawrapper["rTAAL"].embedDeltas={"100":351,"200":250,"300":233,"400":208,"500":191,"700":191,"800":191,"900":191,"1000":191},window.datawrapper["rTAAL"].iframe=document.getElementById("datawrapper-chart-rTAAL"),window.datawrapper["rTAAL"].iframe.style.height=window.datawrapper["rTAAL"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["rTAAL"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("rTAAL"==b)window.datawrapper["rTAAL"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
+
+# 360 Tour 
+
+<iframe width="100%" height="480px" src="https://poly.google.com/view/5zQReWivGHO/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
